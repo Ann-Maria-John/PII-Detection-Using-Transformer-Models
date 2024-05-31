@@ -20,5 +20,7 @@ Optimized for long documents
 
 ### Results
 DeBERTa + Gemma Data: F-beta score of 0.988
+
 DeBERTa + Mistral + ChatGPT Data: F-beta score of 0.99
+
 Longformer (best configuration): F-beta score of 0.958
